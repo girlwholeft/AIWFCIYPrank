@@ -1,6 +1,6 @@
 The purpose of this project is to prank your friends by making their computer play All I Want For Christmas Is You by Mariah Carey every 15-45 minutes. The code for this will be disguised as a Flappy Bird type of game.
 
-You will need a Windows computer, Python 3.9 or later, Visual Studio Code, Dropbox, a .mp3 file for All I Want For Christmas Is You, and a BAT to EXE converter (download here: https://bat-to-exe-converter-x64.en.softonic.com/)
+You will need a Windows computer, Python 3.9 or later (download Python 3.12 here: https://www.python.org/downloads/release/python-3120/), Visual Studio Code, Dropbox, a .mp3 file for All I Want For Christmas Is You, and a BAT to EXE converter (download here: https://bat-to-exe-converter-x64.en.softonic.com/)
 
 Download the flappygame.py and mariahpocalypse.py files
 
