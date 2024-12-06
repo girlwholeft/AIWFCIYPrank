@@ -15,10 +15,10 @@ game_images = {}
 framepersecond = 32
 
 # File paths for images (ensure these paths are valid in your environment)
-pipeimage = "romanpillar(1)(1)(1).png"
-background_image = "dragonbackground(1).jpg"
-birdplayer_image = "dragonicon(1)(1).png"
-sealevel_image = "sealevelimage(1).png"
+pipeimage = "romanpillar.png"
+background_image = "dragonbackground.jpg"
+birdplayer_image = "dragonicon.png"
+sealevel_image = "sealevelimage.png"
 
 def flappygame():
     your_score = 0
