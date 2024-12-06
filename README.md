@@ -10,7 +10,7 @@ Be sure to replace (your Python version) with your actual version, whether that 
 
 To convert the flappygame.py file into an exe file, go to your termainal in VSCode and type: pyinstaller flappygame.py --onefile --noconsole
 
-To convert the mariahpocalypse.py file into an exe file, go to your termainal in VSCode and type: pyinstaller mariahpocalypse.py --onefile --noconsole
+To do this with the mariahpocalypse.py file, go to your termainal in VSCode and type: pyinstaller mariahpocalypse.py --onefile --noconsole
 
 Then, upload all of the files from image_and_mp3_files to Dropbox
 
