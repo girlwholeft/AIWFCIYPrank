@@ -14,5 +14,11 @@ Then, upload all of the files from image_and_mp3_files to Dropbox
 
 Download the mariahpocalypse.bat file
 
+Find a cool .ico file for the .exe file you want to make. These can easily be found on the internet
+
+Open the mariahpocalypse.bat file in the BAT to EXE converter
+
 Replace all of the placeholders with your download links from Dropbox, making sure to change "dl=0" to "dl=1"
+
+Go to the right-hand menu, check the "Icon" button, and upload the .ico file
 
