@@ -187,16 +187,16 @@ if __name__ == "__main__":
 
     # Load all the images used in the game
     game_images['scoreimages'] = (
-        pygame.image.load("D:/flappyimages/0.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/1.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/2.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/3.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/4.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/5.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/6.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/7.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/8.png").convert_alpha(),
-        pygame.image.load("D:/flappyimages/9.png").convert_alpha()
+        pygame.image.load("0.png").convert_alpha(),
+        pygame.image.load("1.png").convert_alpha(),
+        pygame.image.load("2.png").convert_alpha(),
+        pygame.image.load("3.png").convert_alpha(),
+        pygame.image.load("4.png").convert_alpha(),
+        pygame.image.load("5.png").convert_alpha(),
+        pygame.image.load("6.png").convert_alpha(),
+        pygame.image.load("7.png").convert_alpha(),
+        pygame.image.load("8.png").convert_alpha(),
+        pygame.image.load("9.png").convert_alpha()
     )
     game_images['flappybird'] = pygame.image.load(birdplayer_image).convert_alpha()
     game_images['sea_level'] = pygame.image.load(sealevel_image).convert_alpha()
