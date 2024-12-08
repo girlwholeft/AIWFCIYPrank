@@ -31,3 +31,5 @@ Check "Request administrator privileges" under UAC
 Click "Convert"
 
 Lastly, upload your .exe file to Dropbox or Github, and get the download link to send to your friends.
+
+To teach your friends how to reverse it, tell them to press ctrl+alt+delete and click task manager, and type mariahpocalypse into the search bar and right-click it to end the task.
