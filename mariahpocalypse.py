@@ -16,7 +16,7 @@ def countdown_mariah(t):
     mixer.music.load(song)
     mixer.music.play()
 
-seconds = random.randint(3600, 10800)
+seconds = random.randint(1200, 3600)
 
 while True:
     countdown_mariah(seconds)
