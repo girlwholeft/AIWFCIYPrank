@@ -22,7 +22,7 @@ Open the mariahpocalypse.bat file in the BAT to EXE converter
 
 Replace all of the placeholders with your download links from Dropbox, making sure to change "dl=0" to "dl=1"
 
-Go to the right-hand menu, check the "Icon" button, and upload the .ico file
+Go to the right-hand menu, check the "Icon" button, and upload a .ico file
 
 Under "Exe-Format", choose 32-bit Windows (Invisible)
 
